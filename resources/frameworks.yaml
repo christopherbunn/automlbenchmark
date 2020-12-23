@@ -209,3 +209,6 @@ TunedRandomForest:
 #    _tuning:
 #      n_estimators: 500
 
+EvalML:
+  version: '0.16.1'
+  project: https://github.com/alteryx/evalml
